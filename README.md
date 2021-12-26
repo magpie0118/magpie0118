@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magpie0118 (Maggie)
-- Learning programming so I can change careers.
-- Taking Udemy Courses & Looking into a second Bachelor of Science in Computer Science
+- I'm learning programming, so I can change careers.
+- I'm currently taking Udemy Courses
 
 <!---
 magpie0118/magpie0118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
