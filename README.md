@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magpie0118 (Maggie)
-- I'm learning programming, so I can change careers.
+- I'm learning how to code
 - I'm currently utilizing freeCodeCamp, Udemy and Codecademy
 
 <!---
