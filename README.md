@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magpie0118 (Maggie)
 - I'm learning how to code
-- I'm currently utilizing freeCodeCamp, Udemy and Codecademy
+- I'm currently utilizing The Odin Project, freeCodeCamp, Udemy and Codecademy
 - Ongoing Activity: The Odin Project
 
 <!---
