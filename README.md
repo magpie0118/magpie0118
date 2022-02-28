@@ -2,7 +2,7 @@
 - I'm learning how to code to transition to a Software Engineer Position
 - Bachelor of Science Degree in Engineering
 - Twitter #100daysofcode for Accountability
-- I'm currently utilizing The Odin Project, freeCodeCamp, Udemy and Codecademy
+- I'm currently Studying Web Development by utilizing The Odin Project, freeCodeCamp, Udemy and Codecademy
 
 
 <!---
