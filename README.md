@@ -3,7 +3,7 @@
 - Bachelor of Science Degree in Engineering
 - Twitter #100daysofcode for Accountability
 - Currently utilizing The Odin Project. Also supplementing with freeCodeCamp, Udemy and Codecademy
-- Books being Utilized: "Eloquent Javascript" & "Clean Code"
+- Books being Utilized: "Learning Ruby the Hard Way", "Eloquent Javascript", & "Clean Code"
 - Ongoing Activities Include - The Odin Project Foundations Course
 
 
