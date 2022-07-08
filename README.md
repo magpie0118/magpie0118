@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magpie0118 (Maggie)
 - I'm learning how to code to transition to a Software Engineer Position
-- Bachelor of Science Degree in Engineering
+- Bachelor of Science Degree in Engineering (with a Minor in Mathematics)
 - Twitter #100daysofcode for Accountability
 - Currently utilizing The Odin Project Curriculum. Also supplementing with freeCodeCamp, Udemy and Codecademy for extra practice
 - Books being Utilized: "Learning Ruby the Hard Way", "Eloquent Javascript", & "Clean Code"
